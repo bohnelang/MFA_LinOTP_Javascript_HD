@@ -1,4 +1,4 @@
-# MFA LinOTP Javascript HD
+# MFA LinTOTP Javascript HD
 
 Das vorliegende Skript ist eine Erweiterung des "Pure JavaScript TOTP Code generator" (https://cable.ayra.ch/totp/) von Kevin Gut, das mit freundlicher Genehmigung in der modifizierten Form bei github bereitgestellt werden darf.
 
